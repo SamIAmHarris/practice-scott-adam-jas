@@ -1,0 +1,20 @@
+Hey guys,
+
+I thought I would add a text file explaining what I did this last week
+
+**********************************************************************
+
+Most of my work was using AWS to host my portfolio website
+
+At the end of it, I was able to host my site and make it public
+
+I plan on updating the styling during my free time this week bc the 
+default styling for my assignments looks really bad in my opinion
+
+I was using something called apache which is software that lets
+you make your server, it was a little complicated and I dont
+truly understand it, but I learned a few things
+
+Here is my DNS if you want to check out my portfolio website:
+
+ec2-18-222-196-24.us-east-2.compute.amazonaws.com 
