@@ -15,7 +15,7 @@ I was using something called apache which is software that lets
 you make your server, it was a little complicated and I dont
 truly understand it, but I learned a few things
 
-Will this cause the conflict?
+Will this cause the conflict? It should now.
 
 Here is my DNS if you want to check out my portfolio website:
 
