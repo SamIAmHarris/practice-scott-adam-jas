@@ -15,6 +15,8 @@ I was using something called apache which is software that lets
 you make your server, it was a little complicated and I dont
 truly understand it, but I learned a few things
 
+Will this cause the conflict?
+
 Here is my DNS if you want to check out my portfolio website:
 
 ec2-18-222-196-24.us-east-2.compute.amazonaws.com 
