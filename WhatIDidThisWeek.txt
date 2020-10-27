@@ -18,3 +18,6 @@ truly understand it, but I learned a few things
 Here is my DNS if you want to check out my portfolio website:
 
 ec2-18-222-196-24.us-east-2.compute.amazonaws.com 
+
+
+^ Portfolio looks great. AdamMenker.com is available, you could buy it, and then point there.
