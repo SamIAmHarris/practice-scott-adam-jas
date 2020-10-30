@@ -16,3 +16,11 @@ Thats all I have learned so far.
 
 -Adam
 ******************************************************************************************************************************
+
+
+Hello,
+
+So i forked this repo. I am making changes to this file. Im not sure if thats the correct way to do this but i think next i need to
+make a pull request. 
+
+--Jas
